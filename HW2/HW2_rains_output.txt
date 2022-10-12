@@ -1,0 +1,82 @@
+Author: Sri Harsha Vishwanath (shv@arizona.edu)
+BAT 502
+
+HW2 - Linux bash loops with Tucson Rain
+_______________________________
+Rows for months of 2021
+For month 01, with Good data:
+71689
+For month 02, with Good data:
+71689
+For month 03, with Good data:
+71689
+For month 04, with Good data:
+71689
+For month 05, with Good data:
+71689
+For month 06, with Good data:
+71689
+For month 07, with Good data:
+71689
+For month 08, with Good data:
+71689
+For month 09, with Good data:
+71689
+For month 10, with Good data:
+23888
+For month 11, with Good data:
+23888
+For month 12, with Good data:
+23888
+_______________________________
+Rows for months of 2020
+For month 01, with Good data:
+61079
+For month 02, with Good data:
+61079
+For month 03, with Good data:
+61079
+For month 04, with Good data:
+61079
+For month 05, with Good data:
+61079
+For month 06, with Good data:
+61079
+For month 07, with Good data:
+61079
+For month 08, with Good data:
+61079
+For month 09, with Good data:
+61079
+For month 10, with Good data:
+20667
+For month 11, with Good data:
+20667
+For month 12, with Good data:
+20667
+_______________________________
+Rows for months of 2019
+Rows for month 01, with Good data:
+57658
+Rows for month 02, with Good data:
+57658
+Rows for month 03, with Good data:
+57658
+Rows for month 04, with Good data:
+57658
+Rows for month 05, with Good data:
+57658
+Rows for month 06, with Good data:
+57658
+Rows for month 07, with Good data:
+57658
+Rows for month 08, with Good data:
+57658
+Rows for month 09, with Good data:
+57658
+Rows for month 10, with Good data:
+20314
+Rows for month 11, with Good data:
+20314
+Rows for month 12, with Good data:
+20314
