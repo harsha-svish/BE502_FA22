@@ -27,8 +27,8 @@ Is a higher amount of rain associated with an increase in car accidents in Tucso
 
 This folder contains images of the results from the analysis file
 
-1) Table with Number of collisions and rain amount - BATtable.jpg
-2) Rain amount vs month and year - rainAmount.jpg
-3) Number of accidents - accidents.jpg
-4) Collisions and Rain Amount - collisionsRain.jpg
+1) Table with Number of collisions and rain amount - BATtable.png
+2) Rain amount vs month and year - rainAmount.png
+3) Number of accidents - accidents.png
+4) Collisions and Rain Amount - collisionsRain.png
 
