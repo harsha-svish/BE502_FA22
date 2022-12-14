@@ -2,9 +2,9 @@
 ______________________________
 
 Group members:
-1) Kamil Abdulrazzaq Khalaf - mailto:kamilk@arizona.edu
-2) Nicolle Angela Viloria - mailto:nviloria@arizona.edu
-3) Sri Harsha Vishwanath - mailto:shv@arizona.edu
+1) Kamil Abdulrazzaq Khalaf - kamilk@arizona.edu
+2) Nicolle Angela Viloria - nviloria@arizona.edu
+3) Sri Harsha Vishwanath - shv@arizona.edu
 
 _____________________________
 
