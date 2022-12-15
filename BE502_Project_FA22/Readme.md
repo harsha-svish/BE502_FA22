@@ -18,8 +18,8 @@ The project aims to synthesize different parts of the knowledge acquired in this
 Is a higher amount of rain associated with an increase in car accidents in Tucson, AZ?
 
 ## Data & Code:
-1) Tucson car accidents - 
-2) Tucson Rain -
+1) Tucson car accidents - tucson_car_accidents.csv
+2) Tucson Rain - File was larger than 25 MB, github did not accomodate this file
 3) Analysis file - bat502_project.ipynb
 4) Analysis file as raw python file -  bat502_project.py
 
