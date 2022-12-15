@@ -48,3 +48,7 @@ Based on these findings, we can conclude that there is insufficient data to draw
 
 Plot 3:
 ![Accidents vs Rain Amount](https://github.com/harsha-svish/BE502_FA22/blob/main/BE502_Project_FA22/collisions&Rain.PNG?raw=true)
+
+Bibliography
+
+[1]	“Teen Drivers and Passengers: Get the Facts | Transportation Safety | Injury Center | CDC,” Nov. 22, 2022. https://www.cdc.gov/transportationsafety/teen_drivers/teendrivers_factsheet.html (accessed Dec. 14, 2022).
