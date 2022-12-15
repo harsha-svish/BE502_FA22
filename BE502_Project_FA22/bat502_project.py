@@ -99,9 +99,15 @@ rain_aggregate.head()
 accidents_aggregate.head()
 
 rain_accidents = pd.merge(rain_aggregate, accidents_aggregate, on = ["monthYear"], how = 'inner')
-rain_accidents.head(48)
+rain_accidents.head(12)
 
-# Scatter plot for Mean Rain Amount
+# finding correlation
+x = rain_accidents['rainAmount']
+y = rain_accidents['Number_of_Collisions']
+correlation = np.corrcoef(x,y)[0,1]
+value = print("The correlation coefficient  between x and y is :",correlation)
+
+# Scatter plot for Rain Amount
 
 plot.scatter( rain_accidents['monthYear'],rain_accidents['rainAmount'])
 
@@ -129,14 +135,20 @@ plot.gcf().autofmt_xdate()
 
 plot.show()
 
-# Scatter plot for Number of Collisions vs Rain Amount
+# Scatter plot for Number of collisions vs Rain Amount
+# finding correlation
+x = rain_accidents['rainAmount']
+y = rain_accidents['Number_of_Collisions']
+correlation = np.corrcoef(x,y)[0,1]
+value = print("The correlation coefficient  between x and y is :",correlation)
 
-plot.scatter(df_new['Number_of_Collisions'], df_new['rainAmount'])
+plot.scatter(df_new['rainAmount'], df_new['Number_of_Collisions'])
 
-plot.title('Plot Between Collisions and Rain Amount at a given day')
+plot.suptitle('Plot Between Collisions and Rain Amount at a given day')
 
-plot.xlabel('Number of Collisions')
+plot.title(value)
 
-plot.ylabel('Rain Amount')
+plot.xlabel('Rain Amount')
 
+plot.ylabel('Number of Collisions')
 plot.show()
