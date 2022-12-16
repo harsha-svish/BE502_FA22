@@ -47,7 +47,7 @@ The mean rain amount was plotted against the number of collisions during this ti
 Based on these findings, we can conclude that there is insufficient data to draw conclusions about whether mean rain amount is correlated with an increase in car collisions in Tucson, AZ. If this study were to be repeated in the future, more months and years should be looked at in order to have more data points to draw conclusions from. This can also help mitigate the effects of the COVID-19 pandemic data points from 2020, in which the car collisions were noticeably lower for that year.
 
 Plot 3:
-![Accidents vs Rain Amount](https://github.com/harsha-svish/BE502_FA22/blob/main/BE502_Project_FA22/collisions&Rain.PNG?raw=true)
+![New Accidents vs Rain Amount](https://github.com/harsha-svish/BE502_FA22/blob/main/BE502_Project_FA22/collisions&Rain.PNG?raw=true)
 
 Works Cited
 
